@@ -1,3 +1,3 @@
 # 勉強
 ## 目次
-- [github cli](./github-cli.md)
+- [github cli](./README/github-cli.md)
